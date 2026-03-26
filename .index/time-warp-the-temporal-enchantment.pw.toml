@@ -1,0 +1,17 @@
+filename = 'timewarp-2.0.1-fix.jar'
+name = 'Time Warp: The Temporal Enchantment'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TimeWarp-2.0.1-fix.jar'
+
+[download]
+hash = 'd98ba68deab8896904edbbd6206bfd686da70290'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7758074
+project-id = 1386824

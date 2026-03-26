@@ -1,0 +1,30 @@
+filename = 'createimmersiveunnecessaryshaft-0.2.0.jar'
+name = 'Create Immersive Unnecessary Shaft'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.0'
+
+[download]
+hash = '4a307161260f589461ab4ab52d3ea40c3df7c75eea447d8bf1a1e1e8b1f3dbdcd353421de3aeaf190ca2726801ab32fda2d44a32f4ebe3d272b9d11d1d224511'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yggMRGCG/versions/sZi7bXZk/createimmersiveunnecessaryshaft-0.2.0.jar'
+
+[update.modrinth]
+mod-id = 'yggMRGCG'
+version = 'sZi7bXZk'

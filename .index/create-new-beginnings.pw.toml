@@ -1,0 +1,30 @@
+filename = 'createnewbeg-0.1.0-1.20.1-c6.jar'
+name = 'Create: New Beginnings'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.0-1.20.1-c6'
+
+[download]
+hash = '3bb2d86e47e9dfd7a42a87b29b097cd568d2216538d5bc331f48bed820d452d3a6346ef74752ba72579d99700a24226b468f051967b2537521655156616eff27'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XDDw6edF/versions/NDlWaU9L/createnewbeg-0.1.0-1.20.1-c6.jar'
+
+[update.modrinth]
+mod-id = 'XDDw6edF'
+version = 'NDlWaU9L'

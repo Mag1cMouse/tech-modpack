@@ -1,0 +1,17 @@
+filename = 'TotemFactory-1.1.0+mc1.20.1-Forge.jar'
+name = 'Create: Totem Factory'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = 'a627768fdc54de3b8d22b9706935682f1e8a95e8398909780492c5fb526da0ec8672b48a0581848c7362d5d15532bdf55f930e7009ac96207e6c5e4c91e571cd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ae2lDuIP/versions/usqucgFx/TotemFactory-1.1.0%2Bmc1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'ae2lDuIP'
+version = 'usqucgFx'

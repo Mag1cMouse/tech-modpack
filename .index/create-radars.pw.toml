@@ -1,0 +1,30 @@
+filename = 'create_radar-0.4.2+mc1.20.1.jar'
+name = 'Create: Radars'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.4.2'
+
+[download]
+hash = 'de1426e260a9a6d8286731ccfed9e3caf1e284fa005f7c08aaa1ad5a525ad9840c7eba3adb48860e7aba58fca90d99ecb8fd5a5f2b3c22d61f45d2bedb0cd29a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BLu2Yqfq/versions/XDv8lahy/create_radar-0.4.2%2Bmc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'BLu2Yqfq'
+version = 'XDv8lahy'

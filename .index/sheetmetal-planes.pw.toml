@@ -1,0 +1,17 @@
+filename = 'metalplanes-1.0.0-forge-1.20.1.jar'
+name = 'Sheetmetal Planes'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '9ee4c45d46154857cc093bad411d8c6f9043a9733b07bcfffdbffa05781b86e8ffe96b730efbb120926a190ccc0faee8f69ff82ab835fa065c8512a1faa373a2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dFUI5B8M/versions/XIIc6Isx/metalplanes-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'dFUI5B8M'
+version = 'XIIc6Isx'

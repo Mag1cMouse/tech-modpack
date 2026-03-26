@@ -1,0 +1,17 @@
+filename = 'NexusLayer-1.1.2.jar'
+name = 'Nexus Layer'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NexusLayer-1.1.2.jar'
+
+[download]
+hash = 'a930acf0126b3514a3d56c4fc2d54c5d7c344341'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7603094
+project-id = 1305942

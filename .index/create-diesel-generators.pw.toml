@@ -1,0 +1,17 @@
+filename = 'createdieselgenerators-1.20.1-1.3.9.jar'
+name = 'Create: Diesel Generators'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.3.9'
+
+[download]
+hash = '01ef14cc48650077fcf3ed89f1e6bd1e8ea247fa520dfc326df68b3243f3005097c39017ce823647b276ed16148dcd413ad16696f31f6f824d86572de977cd73'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZM3tt6p1/versions/NJpDn3VZ/createdieselgenerators-1.20.1-1.3.9.jar'
+
+[update.modrinth]
+mod-id = 'ZM3tt6p1'
+version = 'NJpDn3VZ'
