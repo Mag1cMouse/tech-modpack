@@ -1,17 +1,17 @@
-filename = 'more_flux_storage-1.20.1-1.0.0.jar'
+filename = 'more_flux_storage-1.20.1-1.0.2.jar'
 name = 'More Flux Storage'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'more_flux_storage-1.20.1-1.0.0.jar'
+x-prismlauncher-version-number = 'more_flux_storage-1.20.1-1.0.2.jar'
 
 [download]
-hash = '74e6da696c07962f154156c8f3360a9b5c1f41a2'
+hash = '057b00f2088b741e7f4a54c661140dc5e4683d8c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7793282
+file-id = 7816327
 project-id = 1492345
