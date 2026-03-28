@@ -1,0 +1,17 @@
+filename = '1.20-1.20.1-MacroKeybinds-1.3.1.jar'
+name = 'Macro Keybinds'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1'
+
+[download]
+hash = '37070b24dbe0eaa2eb97dff041d273229d39353ce92963b1440b2d67f10827287355e843678db1a7574836f7f86fdabdb788ecb989aaf5483ce57330193f925a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2loIqHKX/versions/vLUFa5Hj/1.20-1.20.1-MacroKeybinds-1.3.1.jar'
+
+[update.modrinth]
+mod-id = '2loIqHKX'
+version = 'vLUFa5Hj'
